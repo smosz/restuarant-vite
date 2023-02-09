@@ -9,7 +9,7 @@
               </div>
             </div>
             <div class="w-full lg:w-1/2 py-16 px-12">
-              <h2  class="text-center text-3xl mb-4">Register</h2>
+              <h2  class="text-center text-3xl mb-4">Register For A Meal</h2>
               <p class="mb-4">
                 Create your account. It’s free and only take a minute
               </p>
