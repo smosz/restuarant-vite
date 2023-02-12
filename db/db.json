@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "Username": "smosznyola",
+      "Email": "rovimaths31@gmail.com",
+      "Password": "qwerty",
+      "Food_Types": [
+        "rice ",
+        "dnuts ",
+        "mann "
+      ],
+      "Terms": true,
+      "id": 1
+    }
+  ]
+}
